@@ -2,24 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: darkblue;
 }
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.container {
   height: 100vh;
-}
-
-.headline-wrapper {
   display: flex;
-  justify-content: center;
   align-items: center;
-}
-
-.button-wrapper {
-  display: flex;
   justify-content: center;
-  align-items: center;
 }
